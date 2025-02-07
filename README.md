@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 "now install react"
+
+sistema de registro 2
